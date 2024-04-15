@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+**My name is Sergei Kiselev 🙋**
+
+I am a Data Scientist. Passionate about finding correlations and insights in data.
+
+My stack:
+Python, Pandas, Numpy, Matplotlib, , Seaborn, Scikit-learn, CatBoost, nltk, spacy, TensorFlow, Keras, PostgreSQL, sqlalchemy
 <!--
 **kiselev-sergei/kiselev-sergei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
